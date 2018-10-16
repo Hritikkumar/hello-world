@@ -1,2 +1,2 @@
 # hello-world
-starting learning here
+I'm an engineer and i love learning new things.
